@@ -1,2 +1,2 @@
-# machine-learning
-everything related to ml
+# Deep Learning assignments
+Python Notebooks 
