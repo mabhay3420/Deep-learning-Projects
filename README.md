@@ -16,3 +16,6 @@ Contains Assignments and practice notebooks implemented in PyTorch and TensorFlo
 This will(?) contain the notebooks implemented for the PClub's "Deep Learning Hackathon Series".
 > Notebooks  
 >>Transfer Learning
+
+## Khanan_datagenix_hackathon
+>A simple ml problem with 6 input feature and one output feature.
