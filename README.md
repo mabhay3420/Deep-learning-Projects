@@ -1,6 +1,6 @@
-# Deep Learning assignments
+# Deep Learning 
 
-## Summer
+## Introduction_2_ANN 
 Contains Assignments and practice notebooks implemented in PyTorch and TensorFlow.The work was completed in summer 2020 under the PClub Project "Introduction to ANN" which was loosely based on "Deep learning with Andrew Ng"
 >This mainly covers:  
 >>* Single layer neural networks  
@@ -11,11 +11,14 @@ Contains Assignments and practice notebooks implemented in PyTorch and TensorFlo
 >>* CNN  
 >>* Recurrence neural networks ( A small portion of NLP is implemented)
     
+## Mathemetics-of-dl
+Implement and visualize basics algorithm using only python and libraries such as numpy and matplotlib. The aim is to understand the mathematics that gives the power Machine learning/ Deep learning has and how it acheives that ( Rather a tough task ).
 
-## PClub-hackathon
-This will(?) contain the notebooks implemented for the PClub's "Deep Learning Hackathon Series".
-> Notebooks  
->>Transfer Learning
+>Content :
+>>- Principal Component Analysis
 
-## Khanan_datagenix_hackathon
->A simple ml problem with 6 input feature and one output feature.
+ 
+## Hackathon_and_workshops
+This will(?) contain the notebooks implemented for various hackathons/workshop i participate in : 
+> PClub hackathon : Simple Transfer Learning model
+>Khanan_datagenix_hackathon : A simple ml problem with 6 input feature and one output feature.
