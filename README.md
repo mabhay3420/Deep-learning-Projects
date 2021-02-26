@@ -21,4 +21,4 @@ Implement and visualize basics algorithm using only python and libraries such as
 ## Hackathon_and_workshops
 This will(?) contain the notebooks implemented for various hackathons/workshop i participate in : 
 > PClub hackathon : Simple Transfer Learning model
->Khanan_datagenix_hackathon : A simple ml problem with 6 input feature and one output feature.
+> Khanan_datagenix_hackathon : A simple ml problem with 6 input feature and one output feature.
