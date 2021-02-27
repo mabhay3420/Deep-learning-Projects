@@ -2,7 +2,7 @@
 
 Principal component analysis is a simple yet powerful tool. Machine learning/Deep learning represent information in terms of high-dimensional vectors which are hard to visualize if plotted as such. One of the application of PCA is visualizing multidimensional data by plotting them on 2-D plot. Now this might not seem interesting, one might say, Just plot the data on x-y plane , but it's not just about plotting, rather we want to see the truest picture possible.
 
-As a simple example, consider 2 points in 3-D space A(1,0,0) and B(2,0,0). We want a 2-D picture, so let's project these points into X-Y plane and Y-Z plane and X-Z plane : A_xy(1,0), B_xy(1,0) and A_yz(0,0) , B_yz(0,0) and A_xz(1,0) , B_xz(1,0). The Y-Z representation is useless in the sense that it does not give us the true picture of the data set. Thus, we need to choose an optimal 2-D plane to project our data upon.
+As a simple example, consider 2 points in 3-D space A(1,0,0) and B(2,0,0). We want a 2-D picture, so let's project these points into X-Y plane and Y-Z plane and X-Z plane : A_xy(1,0), B_xy(2,0) and A_yz(0,0) , B_yz(0,0) and A_xz(1,0) , B_xz(2,0). The Y-Z representation is useless in the sense that it does not give us the true picture of the data set. Thus, we need to choose an optimal 2-D plane to project our data upon.
 
 If we want to convert n-D data into k-D data we want a k-D optimal plane. PCA says that the k-axes of this optimal k-D plane are ** k-eigen vectors corresponding to largest k eigen values of X<sup>T</sup>X **, where X is the matrix representing the data.[Proof here](https://www.deeplearningbook.org/contents/linear_algebra.html).
 
